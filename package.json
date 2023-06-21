@@ -1,6 +1,6 @@
 {
     "name": "@exa-online/fern-website-node-sdk",
-    "version": "0.0.20",
+    "version": "1.0.1",
     "private": false,
     "repository": "https://github.com/eXa-online/fern-website-node-sdk",
     "main": "./index.js",
